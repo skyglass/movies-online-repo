@@ -1,0 +1,7 @@
+com/twa/flights/common/dto/itinerary/PriceInfoDTOTest.class
+com/twa/flights/common/dto/request/AvailabilityRequestDTOTest.class
+com/twa/flights/common/dto/FlightsDTOAbstractTest.class
+com/twa/flights/common/dto/itinerary/PaxPriceDTOTest.class
+com/twa/flights/common/dto/itinerary/ItineraryDTOTest.class
+com/twa/flights/common/dto/itinerary/LegDTOTest.class
+com/twa/flights/common/dto/itinerary/SegmentDTOTest.class

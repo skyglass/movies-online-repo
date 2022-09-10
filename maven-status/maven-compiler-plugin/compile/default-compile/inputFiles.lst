@@ -1,0 +1,10 @@
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/itinerary/MarkupDTO.java
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/enums/Provider.java
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/itinerary/SegmentDTO.java
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/itinerary/ItineraryDTO.java
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/request/AvailabilityRequestDTO.java
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/itinerary/PaxPriceDTO.java
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/enums/PassengerType.java
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/itinerary/LegDTO.java
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/itinerary/PriceInfoDTO.java
+/Users/mykhailo.skliar/git/movies-online-testing/commons-dto/src/main/java/com/twa/flights/common/dto/enums/FlightType.java
