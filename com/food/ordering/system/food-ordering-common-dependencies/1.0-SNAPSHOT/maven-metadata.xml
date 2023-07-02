@@ -3,16 +3,16 @@
   <groupId>com.food.ordering.system</groupId>
   <artifactId>food-ordering-common-dependencies</artifactId>
   <versioning>
-    <lastUpdated>20230702201735</lastUpdated>
+    <lastUpdated>20230702203630</lastUpdated>
     <snapshot>
-      <timestamp>20230702.201735</timestamp>
+      <timestamp>20230702.203630</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20230702.201735-1</value>
-        <updated>20230702201735</updated>
+        <value>1.0-20230702.203630-1</value>
+        <updated>20230702203630</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
