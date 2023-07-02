@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.food.ordering.system</groupId>
+  <artifactId>food-ordering-common-dependencies</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230702201735</lastUpdated>
+  </versioning>
+</metadata>
